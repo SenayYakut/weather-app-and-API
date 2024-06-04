@@ -1,0 +1,11 @@
+body {
+  background-color: #f9f7fe;
+  margin: 8px;
+}
+
+.search-form-input {
+  background-color: #f9f7fe;
+}
+.search-form-button {
+  background-color: #885df1;
+}
