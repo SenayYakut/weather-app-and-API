@@ -2,10 +2,20 @@ body {
   background-color: #f9f7fe;
   margin: 8px;
 }
-
+.search-form {
+  width: 700px;
+}
 .search-form-input {
   background-color: #f9f7fe;
 }
 .search-form-button {
   background-color: #885df1;
+}
+.weather-app-container {
+  display: block;
+  border: 1px solid;
+  margin: 40px 5px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fff;
 }
