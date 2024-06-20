@@ -1,6 +1,6 @@
 body {
   background-color: #f9f7fe;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 a {
@@ -90,6 +90,7 @@ main {
   display: flex;
   justify-content: space-around;
   margin-top: 30px;
+  text-align: center;
 }
 
 .weather-forecast-date {
